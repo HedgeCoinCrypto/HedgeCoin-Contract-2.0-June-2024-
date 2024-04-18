@@ -35,4 +35,4 @@ To buy HDGC simply send BNB (BSC) to the ITO contract address [0x69DCee85ffF2DD6
 
 The max amount you can buy per address is 1000 HDGC, if you send more BNB than necessary the difference will go back to your wallet automatically. Don't forget to add HDGC to your wallet.
 
-Visit [hedgecoin.finance](https://hedegecoin.finance) for more.
+Visit [hedgecoin.finance](https://hedgecoin.finance) for more.
