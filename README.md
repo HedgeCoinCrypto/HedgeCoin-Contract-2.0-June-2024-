@@ -2,8 +2,10 @@
 <img width="150" height="150" src="https://github.com/HedgeCoinCrypto/HedgeCoin-Contract/assets/156864030/061e7b9a-3d24-4b4b-ada1-be2a7e94b047)">
 </p>
 
-# HedgeCoin-Contract
+# HedgeCoin Contract
 [Token contract for HedgeCoin](https://bscscan.com/token/0xF5c1aCA871F55379f2EF16538d7A55dE7eBD12BD)
+
+    0xF5c1aCA871F55379f2EF16538d7A55dE7eBD12bd
 ## About
 HedgeCoin aims to become the ultimate savings crypto asset, to achieve that, we are implementing a very special contract, featuring low supply, a deflationary scheme and introducing the first ever reflected/refracted finance token. The concept of reflected finance is not new, you'll get the benefits of autostaking but with no setbacks thanks to refracted finance, meaning, for example, that gas price won't rise no matter what. To make it short, your balance will grow automatically because of autostaking and the price should go up because of deflation, all these by just holding $HDGC in your web3 wallet (BSC).
 HedgeCoin represents a second chance for all of those who missed bitcoin at $1, this is an opportunity for future wealth.
